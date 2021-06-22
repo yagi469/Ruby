@@ -1,3 +1,5 @@
 ■ ターミナルに以下のコマンドを打ち込んでください
 rails new tweet_app
 rails server
+
+rails generate controller home top
