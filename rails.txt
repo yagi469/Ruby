@@ -1,0 +1,3 @@
+■ ターミナルに以下のコマンドを打ち込んでください
+rails new tweet_app
+rails server
