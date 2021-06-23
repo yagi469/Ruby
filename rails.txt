@@ -2,4 +2,6 @@
 rails new tweet_app
 rails server
 
-rails generate controller home top
+rails generate controller home top 
+
+rails g controller posts index
